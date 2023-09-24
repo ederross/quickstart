@@ -1,5 +1,5 @@
 # React Pluggy Connect Example
-
+s
 This an example app that showcases the usage of the Pluggy Connect with [Next.js](https://github.com/vercel/next.js). It uses the package `react-pluggy-connect` on the client-side to instantiate the UI widget and `pluggy-sdk` on the server-side to create connect tokens.
 
 ## Setup
